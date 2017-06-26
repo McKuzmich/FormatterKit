@@ -28,18 +28,6 @@
 /* Error converting to NSArray */
 "Couldn’t convert to NSArray" = "Не удается преобразовать в NSArray";
 
-/* Day Unit (Singular) */
-"day" = "день";
-
-/* Day Unit (Plural) */
-"days" = "дней";
-
-/* Day Unit (Singular, Abbreviated) */
-"d" = "день";
-
-/* Day Unit (Plural, Abbreviated) */
-"ds" = "дней";
-
 /* Deictic Expression Format (#{Time} #{Ago/From Now} */
 "Deictic Expression Format String" = "%1$@ %2$@";
 
@@ -81,18 +69,6 @@
 
 /* Gibibit Unit */
 "Gibit" = "Gibit";
-
-/* Hour Unit (Singular) */
-"hour" = "час";
-
-/* Hour Unit (Plural) */
-"hours" = "часов";
-
-/* Hour Unit (Singular, Abbreviated) */
-"hr" = "ч.";
-
-/* Hour Unit (Plural, Abbreviated) */
-"hrs" = "ч.";
 
 /* Present Deictic Expression */
 "just now" = "только что";
@@ -145,36 +121,6 @@
 /* Mebibit Unit */
 "Mibit" = "Mibit";
 
-/* Mile Unit (Singular) */
-"mile" = "миля";
-
-/* Mile Unit (Plural) */
-"miles" = "миль";
-
-/* Minute Unit (Singular, Abbreviated) */
-"min" = "мин.";
-
-/* Minute Unit (Plural, Abbreviated) */
-"mins" = "мин.";
-
-/* Minute Unit (Singular) */
-"minute" = "минута";
-
-/* Minute Unit (Plural) */
-"minutes" = "минут";
-
-/* Month Unit (Singular, Abbreviated) */
-"mo" = "мес.";
-
-/* Month Unit (Singular) */
-"month" = "месяц";
-
-/* Month Unit (Plural) */
-"months" = "месяцев";
-
-/* Month Unit (Plural, Abbreviated) */
-"mos" = "мес.";
-
 /* Miles Per Hour Unit */
 "mph" = "мл/ч";
 
@@ -220,18 +166,8 @@
 /* South Direction Abbreviation */
 "S" = "Ю";
 
-/* Second Unit (Plural, Abbreviated)
-   Second Unit (Singular, Abbreviated) */
-"s" = "c";
-
 /* Southeast Direction Abbreviation */
 "SE" = "Юго-восток";
-
-/* Second Unit (Singular) */
-"second" = "секунда";
-
-/* Second Unit (Plural) */
-"seconds" = "секунд";
 
 /* South Direction */
 "South" = "Юг";
@@ -269,36 +205,12 @@
 /* West Direction Abbreviation */
 "W" = "З";
 
-/* Week Unit (Singular) */
-"week" = "неделя";
-
-/* Week Unit (Plural) */
-"weeks" = "недель";
-
 /* West Direction */
 "West" = "Запад";
-
-/* Week Unit (Singular, Abbreviated) */
-"wk" = "нед.";
-
-/* Week Unit (Plural, Abbreviated) */
-"wks" = "нед.";
 
 /* Yard Unit */
 "yds" = "yds";
 
-/* Year Unit (Singular) */
-"year" = "год";
-
-/* Year Unit (Plural) */
-"years" = "лет";
-
 /* No comment provided by engineer. */
 "yesterday" = "вчера";
-
-/* Year Unit (Singular, Abbreviated) */
-"yr" = "г.";
-
-/* Year Unit (Plural, Abbreviated) */
-"yrs" = "гг.";
 
